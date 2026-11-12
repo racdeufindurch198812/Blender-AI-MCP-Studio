@@ -26,13 +26,11 @@ Artists burn hours on mechanical scene work — placing props, tuning materials,
 
 ## Quick Start
 
-1. Download the latest **blender-ai-mcp-studio.zip** from [Download][download-url].
-2. In Blender, open **Edit → Preferences → Get Extensions**, then **menu → Install from Disk**.
-3. Select the ZIP, enable **Blender AI MCP Studio**, then open **3D Viewport → N → AI Studio**.
+1. Download **`mcp-for-blender-pro.zip`** from [Releases](../../releases/latest).
+2. In Blender, open **Edit → Preferences → Get Extensions → menu → Install from Disk**.
+3. Select the ZIP, enable **mcp-for-blender-pro**, then open **3D Viewport → N → MCP Pro**.
 4. Choose a provider, add your connection details and select a model.
 5. Send a message in Blender or click **Open Studio Window**.
-
-If Windows flags the downloaded archive, right-click it, open **Properties**, check **Unblock** and confirm. The release bundle targets **Windows x64 with Blender 4.2 or later**. Keep Blender open while using Studio or an external client.
 
 ## Features
 
